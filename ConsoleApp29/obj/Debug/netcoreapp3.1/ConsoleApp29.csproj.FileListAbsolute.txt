@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ConsoleApp29\ConsoleApp29\bin\Debug\netcoreapp3.1\ConsoleApp29.exe
+C:\Users\User\source\repos\ConsoleApp29\ConsoleApp29\bin\Debug\netcoreapp3.1\ConsoleApp29.deps.json
+C:\Users\User\source\repos\ConsoleApp29\ConsoleApp29\bin\Debug\netcoreapp3.1\ConsoleApp29.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleApp29\ConsoleApp29\bin\Debug\netcoreapp3.1\ConsoleApp29.runtimeconfig.dev.json
+C:\Users\User\source\repos\ConsoleApp29\ConsoleApp29\bin\Debug\netcoreapp3.1\ConsoleApp29.dll
+C:\Users\User\source\repos\ConsoleApp29\ConsoleApp29\bin\Debug\netcoreapp3.1\ConsoleApp29.pdb
+C:\Users\User\source\repos\ConsoleApp29\ConsoleApp29\obj\Debug\netcoreapp3.1\ConsoleApp29.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp29\ConsoleApp29\obj\Debug\netcoreapp3.1\ConsoleApp29.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleApp29\ConsoleApp29\obj\Debug\netcoreapp3.1\ConsoleApp29.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp29\ConsoleApp29\obj\Debug\netcoreapp3.1\ConsoleApp29.dll
+C:\Users\User\source\repos\ConsoleApp29\ConsoleApp29\obj\Debug\netcoreapp3.1\ConsoleApp29.pdb
